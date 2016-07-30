@@ -31,3 +31,6 @@ root = tree.getroot()
 
 for tok in root:
 	print tok.text
+
+
+print 'yes2'
